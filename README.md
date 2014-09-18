@@ -1,4 +1,1 @@
-test-I-aaa
-==========
-
-test ' &lt;I> aaa
+test<I>AAA
